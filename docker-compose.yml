@@ -20,7 +20,7 @@ services:
     entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew; sleep 12h & wait $${!}; done;'"
   db:
     image: postgres:10
-    platform: linux/amd64
+    #platform: linux/amd64
     # container_name: postgres95
     environment:
       - POSTGRES_PASSWORD=odoo
@@ -30,9 +30,9 @@ services:
     volumes:
       - ./postgresql:/var/lib/postgresql/data
 
-  odoo12:
-    image: odoo:12.0
-    platform: linux/amd64
+  odoo14:
+    image: odoo:14.0
+    #platform: linux/amd64
     # container_name: odoo12
     depends_on:
       - db
