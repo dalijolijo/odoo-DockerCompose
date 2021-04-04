@@ -10,6 +10,8 @@ services:
     ports:
       - "80:80"
       - "443:443"
+    links:
+        - odoo14
     command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"
   certbot:
     image: certbot/certbot
@@ -32,7 +34,7 @@ services:
 
   odoo14:
     image: odoo:14.0
-    #platform: linux/amd64
+    #p latform: linux/amd64
     # container_name: odoo12
     depends_on:
       - db
