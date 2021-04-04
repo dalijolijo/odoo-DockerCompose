@@ -37,7 +37,7 @@ services:
     depends_on:
       - db
     ports:
-      - "10012:8069"
+      - "8069:8069"
     tty: true
     command: -- --dev=reload
 #    command: odoo scaffold /mnt/extra-addons/test_module
