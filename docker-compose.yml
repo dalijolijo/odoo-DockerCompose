@@ -10,8 +10,8 @@ services:
     ports:
       - "80:80"
       - "443:443"
-    links:
-        - odoo14
+    networks:
+      - gateway
     command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"
   certbot:
     image: certbot/certbot
@@ -34,6 +34,8 @@ services:
 
   odoo14:
     image: odoo:14.0
+    networks:
+      - gateway
     #p latform: linux/amd64
     # container_name: odoo12
     depends_on:
@@ -51,3 +53,5 @@ services:
       - ./addons:/mnt/extra-addons
       - ./etc:/etc/odoo
     restart: always             # run as a service
+networks:
+  gateway: {}
