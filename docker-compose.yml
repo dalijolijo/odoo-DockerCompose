@@ -1,6 +1,6 @@
 version: '3.6'
 services:
-nginx:
+  nginx:
     image: nginx:1.15-alpine
     restart: unless-stopped
     volumes:
