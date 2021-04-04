@@ -1,0 +1,1584 @@
+2021-04-03 19:18:26,518 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:18:26,520 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:18:26,521 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:18:26,522 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:18:26,989 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:18:27,214 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:18:27,216 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:18:27,217 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:18:30,218 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:18:30,219 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:18:30,220 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:18:30,222 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:18:30,652 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:18:30,891 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:18:30,894 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:18:30,895 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:18:34,021 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:18:34,023 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:18:34,024 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:18:34,025 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:18:34,489 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:18:34,720 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:18:34,722 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:18:34,723 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:18:37,861 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:18:37,863 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:18:37,864 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:18:37,865 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:18:38,315 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:18:38,536 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:18:38,538 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:18:38,539 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:18:41,917 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:18:41,919 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:18:41,920 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:18:41,921 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:18:42,382 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:18:42,603 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:18:42,605 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:18:42,606 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:18:46,799 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:18:46,801 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:18:46,802 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:18:46,803 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:18:47,281 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:18:47,508 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:18:47,510 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:18:47,512 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:18:53,268 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:18:53,270 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:18:53,271 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:18:53,273 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:18:53,722 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:18:53,942 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:18:53,945 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:18:53,946 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:19:02,928 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:19:02,930 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:19:02,931 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:19:02,932 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:19:03,364 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:19:03,613 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:19:03,615 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:19:03,616 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:19:18,978 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:19:18,979 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:19:18,980 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:19:18,981 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:19:19,410 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:19:19,648 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:19:19,650 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:19:19,652 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:19:47,795 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:19:47,797 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:19:47,798 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:19:47,799 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:19:48,229 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:19:48,476 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:19:48,478 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:19:48,479 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:21:34,927 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:21:34,929 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:21:34,930 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:21:34,931 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:21:35,393 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:21:35,614 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:21:35,616 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:21:35,617 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:21:38,672 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:21:38,674 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:21:38,675 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:21:38,676 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:21:39,109 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:21:39,346 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:21:39,349 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:21:39,350 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:21:42,345 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:21:42,346 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:21:42,347 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:21:42,349 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:21:42,796 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:21:43,015 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:21:43,017 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:21:43,019 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:21:46,132 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:21:46,134 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:21:46,135 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:21:46,136 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:21:46,568 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:21:46,807 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:21:46,810 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:21:46,811 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:21:50,179 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:21:50,180 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:21:50,182 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:21:50,183 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:21:50,646 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:21:50,867 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:21:50,869 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:21:50,870 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:21:55,025 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:21:55,027 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:21:55,028 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:21:55,029 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:21:55,480 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:21:55,726 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:21:55,728 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:21:55,729 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:22:01,490 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:22:01,492 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:22:01,494 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:22:01,495 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:22:01,932 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:22:02,173 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:22:02,176 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:22:02,177 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:22:11,133 1 INFO ? odoo: Odoo version 14.0-20210330 
+2021-04-03 19:22:11,135 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:22:11,136 1 INFO ? odoo: addons paths: ['/usr/lib/python3/dist-packages/odoo/addons', '/etc/odoo/addons/14.0', '/mnt/extra-addons'] 
+2021-04-03 19:22:11,137 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:22:11,578 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:22:11,817 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:22:11,819 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/14.0 
+2021-04-03 19:22:11,820 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:34:38,075 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:34:38,079 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:34:38,080 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:34:38,082 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:34:38,376 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:34:38,677 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:34:38,679 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:34:38,681 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:34:42,116 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:34:42,119 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:34:42,120 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:34:42,121 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:34:42,383 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:34:42,714 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:34:42,716 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:34:42,718 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:34:46,178 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:34:46,181 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:34:46,182 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:34:46,184 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:34:46,444 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:34:46,815 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:34:46,817 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:34:46,818 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:34:50,490 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:34:50,493 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:34:50,494 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:34:50,496 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:34:50,798 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:34:51,096 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:34:51,098 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:34:51,100 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:34:54,802 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:34:54,805 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:34:54,806 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:34:54,808 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:34:55,078 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:34:55,408 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:34:55,410 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:34:55,411 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:34:59,888 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:34:59,891 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:34:59,892 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:34:59,894 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:35:00,153 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:35:00,490 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:35:00,492 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:35:00,494 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:35:06,618 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:35:06,621 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:35:06,622 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:35:06,624 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:35:06,916 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:35:07,214 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:35:07,216 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:35:07,217 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:35:22,709 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:35:22,712 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:35:22,713 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:35:22,715 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:35:22,973 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:35:23,303 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:35:23,305 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:35:23,306 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:35:26,784 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:35:26,801 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:35:26,802 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:35:26,804 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:35:27,095 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:35:27,393 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:35:27,395 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:35:27,396 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:35:30,810 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:35:30,813 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:35:30,814 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:35:30,816 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:35:31,112 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:35:31,414 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:35:31,416 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:35:31,418 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:35:34,884 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:35:34,887 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:35:34,889 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:35:34,891 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:35:35,191 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:35:35,500 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:35:35,503 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:35:35,505 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:35:39,338 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:35:39,341 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:35:39,342 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:35:39,345 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:35:39,634 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:35:39,966 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:35:39,968 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:35:39,970 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:35:44,598 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:35:44,601 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:35:44,602 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:35:44,604 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:35:44,862 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:35:45,191 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:35:45,193 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:35:45,195 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:35:51,324 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:35:51,327 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:35:51,328 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:35:51,330 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:35:51,627 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:35:51,923 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:35:51,925 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:35:51,926 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:36:01,397 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:36:01,400 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:36:01,402 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:36:01,403 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:36:01,674 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:36:02,019 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:36:02,021 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:36:02,022 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:36:17,741 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:36:17,744 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:36:17,745 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:36:17,747 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:36:18,008 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:36:18,340 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:36:18,342 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:36:18,343 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:36:49,091 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:36:49,094 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:36:49,095 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:36:49,097 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:36:49,390 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:36:49,686 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:36:49,688 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:36:49,689 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:36:53,154 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:36:53,157 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:36:53,158 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:36:53,160 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:36:53,476 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:36:53,781 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:36:53,783 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:36:53,785 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:36:57,309 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:36:57,312 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:36:57,313 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:36:57,315 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:36:57,614 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:36:57,940 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:36:57,943 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:36:57,944 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:37:01,333 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:37:01,336 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:37:01,337 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:37:01,339 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:37:01,632 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:37:01,945 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:37:01,947 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:37:01,948 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:37:05,669 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:37:05,672 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:37:05,673 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:37:05,675 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:37:05,934 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:37:06,263 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:37:06,265 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:37:06,266 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:37:10,818 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:37:10,821 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:37:10,822 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:37:10,824 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:37:11,082 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:37:11,413 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:37:11,414 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:37:11,416 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:37:17,514 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:37:17,517 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:37:17,519 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:37:17,520 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:37:17,881 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:37:18,269 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:37:18,273 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:37:18,274 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:37:27,614 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:37:27,617 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:37:27,618 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:37:27,620 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:37:27,880 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:37:28,215 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:37:28,217 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:37:28,218 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:37:43,952 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:37:43,955 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:37:43,956 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:37:43,959 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:37:44,253 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:37:44,548 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:37:44,550 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:37:44,551 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:38:13,084 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:38:13,087 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:38:13,088 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:38:13,090 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:38:13,351 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:38:13,682 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:38:13,684 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:38:13,686 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:39:07,890 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:39:07,893 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:39:07,894 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:39:07,896 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:39:08,162 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:39:08,498 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:39:08,500 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:39:08,501 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:40:22,245 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:40:22,248 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:40:22,249 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:40:22,251 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:40:22,542 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:40:22,839 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:40:22,841 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:40:22,842 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:40:26,345 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:40:26,348 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:40:26,349 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:40:26,351 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:40:26,644 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:40:26,940 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:40:26,943 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:40:26,944 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:40:30,445 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:40:30,448 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:40:30,449 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:40:30,451 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:40:30,764 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:40:31,059 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:40:31,061 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:40:31,062 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:40:34,507 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:40:34,510 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:40:34,511 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:40:34,513 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:40:34,773 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:40:35,100 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:40:35,102 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:40:35,103 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:40:38,863 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:40:38,867 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:40:38,868 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:40:38,870 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:40:39,148 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:40:39,500 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:40:39,502 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:40:39,504 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:40:44,191 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:40:44,194 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:40:44,195 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:40:44,197 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:40:44,505 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:40:44,804 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:40:44,806 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:40:44,808 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:40:50,930 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:40:50,933 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:40:50,934 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:40:50,936 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:40:51,195 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:40:51,525 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:40:51,527 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:40:51,529 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:41:00,951 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:41:00,954 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:41:00,955 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:41:00,957 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:41:01,244 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:41:01,591 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:41:01,593 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:41:01,594 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:41:17,409 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:41:17,412 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:41:17,413 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:41:17,415 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:41:17,674 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:41:18,005 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:41:18,007 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:41:18,008 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:41:46,570 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:41:46,573 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:41:46,575 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:41:46,576 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:41:46,870 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:41:47,172 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:41:47,174 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:41:47,175 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:42:41,313 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:42:41,317 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:42:41,318 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:42:41,320 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:42:41,624 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:42:41,929 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:42:41,931 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:42:41,932 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:43:44,857 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:43:44,861 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:43:44,862 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:43:44,864 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:43:45,155 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:43:45,456 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:43:45,458 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:43:45,460 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:44:48,397 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:44:48,401 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:44:48,402 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:44:48,404 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:44:48,668 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:44:49,021 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:44:49,023 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:44:49,024 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:45:52,080 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:45:52,083 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:45:52,084 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:45:52,086 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:45:52,356 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:45:52,695 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:45:52,697 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:45:52,698 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:46:55,655 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:46:55,662 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:46:55,663 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:46:55,665 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:46:55,958 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:46:56,256 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:46:56,258 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:46:56,260 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:47:59,223 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:47:59,226 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:47:59,228 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:47:59,229 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:47:59,521 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:47:59,818 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:47:59,820 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:47:59,821 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 19:49:02,821 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 19:49:02,825 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 19:49:02,826 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 19:49:02,828 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 19:49:03,118 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 19:49:03,414 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 19:49:03,416 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 19:49:03,417 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:11:59,334 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:11:59,338 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:11:59,339 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:11:59,341 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:11:59,404 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:11:59,407 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:11:59,408 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:12:02,868 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:12:02,871 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:12:02,872 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:12:02,874 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:12:02,937 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:12:02,939 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:12:02,940 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:12:06,326 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:12:06,330 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:12:06,331 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:12:06,333 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:12:06,395 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:12:06,397 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:12:06,399 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:12:09,883 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:12:09,905 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:12:09,906 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:12:09,908 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:12:09,971 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:12:09,973 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:12:09,974 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:12:13,710 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:12:13,713 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:12:13,714 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:12:13,716 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:12:13,779 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:12:13,781 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:12:13,782 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:12:18,324 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:12:18,328 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:12:18,329 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:12:18,331 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:12:18,394 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:12:18,396 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:12:18,397 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:12:24,543 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:12:24,546 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:12:24,547 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:12:24,549 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:12:24,612 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:12:24,614 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:12:24,615 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:12:33,962 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:12:33,967 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:12:33,968 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:12:33,970 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:12:34,032 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:12:34,034 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:12:34,035 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:12:49,816 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:12:49,820 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:12:49,821 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:12:49,823 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:12:49,885 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:12:49,887 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:12:49,889 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:13:19,954 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:13:19,957 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:13:19,958 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:13:19,960 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:13:20,025 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:13:20,027 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:13:20,028 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:14:14,153 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:14:14,156 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:14:14,157 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:14:14,159 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:14:14,224 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:14:14,226 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:14:14,227 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:15:17,227 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:15:17,231 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:15:17,232 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:15:17,236 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:15:17,311 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:15:17,313 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:15:17,314 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:16:20,338 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:16:20,342 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:16:20,343 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:16:20,345 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:16:20,407 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:16:20,409 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:16:20,410 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:17:23,379 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:17:23,383 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:17:23,384 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:17:23,385 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:17:23,449 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:17:23,451 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:17:23,452 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:18:26,380 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:18:26,383 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:18:26,384 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:18:26,386 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:18:26,449 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:18:26,450 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:18:26,452 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:23:44,521 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:23:44,525 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:23:44,526 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:23:44,528 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:23:44,590 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:23:44,591 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:23:44,593 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:23:48,017 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:23:48,020 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:23:48,021 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:23:48,023 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:23:48,086 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:23:48,088 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:23:48,089 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:23:51,470 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:23:51,473 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:23:51,474 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:23:51,476 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:23:51,538 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:23:51,540 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:23:51,541 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:23:54,962 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:23:54,966 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:23:54,967 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:23:54,968 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:23:55,032 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:23:55,034 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:23:55,035 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:23:58,840 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:23:58,843 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:23:58,844 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:23:58,845 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:23:58,908 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:23:58,909 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:23:58,911 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:24:03,458 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:24:03,462 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:24:03,463 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:24:03,465 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:24:03,528 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:24:03,530 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:24:03,531 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:24:09,660 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:24:09,663 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:24:09,665 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:24:09,666 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:24:09,730 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:24:09,733 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:24:09,734 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:24:19,045 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:24:19,048 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:24:19,049 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:24:19,051 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:24:19,112 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:24:19,114 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:24:19,116 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:24:34,854 1 INFO ? odoo: Odoo version 11.0-20200826
+2021-04-03 20:24:34,857 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf
+2021-04-03 20:24:34,858 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/11.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons']
+2021-04-03 20:24:34,860 1 INFO ? odoo: database: odoo@db:5432
+2021-04-03 20:24:34,923 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/11.0
+2021-04-03 20:24:34,925 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons
+2021-04-03 20:24:34,926 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons
+2021-04-03 20:25:09,247 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:25:09,251 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:25:09,252 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:25:09,254 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:25:09,552 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:25:09,854 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:25:09,856 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:25:09,857 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:25:13,300 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:25:13,303 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:25:13,304 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:25:13,306 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:25:13,601 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:25:13,901 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:25:13,903 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:25:13,904 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:25:17,343 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:25:17,346 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:25:17,347 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:25:17,349 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:25:17,640 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:25:17,935 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:25:17,937 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:25:17,938 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:25:21,370 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:25:21,373 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:25:21,375 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:25:21,377 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:25:21,672 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:25:21,969 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:25:21,971 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:25:21,972 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:25:25,784 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:25:25,787 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:25:25,788 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:25:25,790 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:25:26,049 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:25:26,377 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:25:26,379 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:25:26,380 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:25:30,902 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:25:30,905 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:25:30,906 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:25:30,908 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:25:31,167 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:25:31,494 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:25:31,496 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:25:31,497 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:25:37,642 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:25:37,645 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:25:37,646 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:25:37,648 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:25:37,941 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:25:38,240 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:25:38,242 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:25:38,243 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:25:47,573 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:25:47,576 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:25:47,577 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:25:47,579 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:25:47,838 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:25:48,167 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:25:48,169 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:25:48,170 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:26:03,894 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:26:03,897 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:26:03,898 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:26:03,900 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:26:04,190 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:26:04,486 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:26:04,488 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:26:04,489 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:26:33,021 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:26:33,024 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:26:33,025 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:26:33,026 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:26:33,318 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:26:33,615 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:26:33,617 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:26:33,619 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:27:27,763 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:27:27,766 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:27:27,767 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:27:27,769 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:27:28,037 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:27:28,374 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:27:28,376 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:27:28,377 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:28:31,299 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:28:31,302 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:28:31,303 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:28:31,306 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:28:31,565 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:28:31,904 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:28:31,906 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:28:31,907 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:29:34,851 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:29:34,855 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:29:34,856 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:29:34,858 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:29:35,118 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:29:35,447 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:29:35,449 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:29:35,450 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:30:38,414 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:30:38,417 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:30:38,418 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:30:38,420 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:30:38,687 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:30:39,020 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:30:39,022 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:30:39,023 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:31:41,986 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:31:41,989 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:31:41,990 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:31:41,992 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:31:42,251 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:31:42,578 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:31:42,580 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:31:42,582 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:32:06,750 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:32:06,753 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:32:06,755 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:32:06,756 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:32:07,021 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:32:07,355 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:32:07,357 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:32:07,359 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:32:10,818 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:32:10,821 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:32:10,822 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:32:10,824 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:32:11,119 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:32:11,415 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:32:11,417 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:32:11,418 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:32:14,838 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:32:14,841 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:32:14,842 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:32:14,844 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:32:15,103 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:32:15,434 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:32:15,436 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:32:15,438 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:32:18,818 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:32:18,820 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:32:18,822 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:32:18,824 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:32:19,082 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:32:19,409 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:32:19,411 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:32:19,413 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:32:23,138 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:32:23,141 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:32:23,142 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:32:23,144 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:32:23,436 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:32:23,733 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:32:23,735 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:32:23,736 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:32:28,280 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:32:28,283 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:32:28,284 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:32:28,286 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:32:28,578 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:32:28,874 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:32:28,876 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:32:28,878 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:32:35,021 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:32:35,024 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:32:35,025 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:32:35,028 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:32:35,288 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:32:35,618 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:32:35,620 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:32:35,621 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:32:44,913 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:32:44,916 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:32:44,917 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:32:44,919 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:32:45,210 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:32:45,504 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:32:45,506 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:32:45,507 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:33:01,221 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:33:01,224 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:33:01,225 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:33:01,227 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:33:01,519 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:33:01,816 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:33:01,818 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:33:01,819 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:33:30,346 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:33:30,349 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:33:30,350 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:33:30,352 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:33:30,643 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:33:30,939 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:33:30,941 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:33:30,942 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:34:25,144 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:34:25,147 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:34:25,148 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:34:25,150 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:34:25,453 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:34:25,757 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:34:25,759 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:34:25,760 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:35:28,743 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:35:28,745 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:35:28,746 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:35:28,748 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:35:29,012 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:35:29,347 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:35:29,349 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:35:29,350 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:36:32,355 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:36:32,359 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:36:32,360 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:36:32,362 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:36:32,642 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:36:32,973 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:36:32,975 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:36:32,976 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:37:35,900 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:37:35,903 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:37:35,904 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:37:35,906 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:37:36,198 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:37:36,497 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:37:36,499 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:37:36,500 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:38:55,550 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:38:55,554 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:38:55,556 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:38:55,557 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:38:55,816 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:38:56,146 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:38:56,148 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:38:56,149 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:38:59,698 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:38:59,701 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:38:59,702 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:38:59,704 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:38:59,995 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:39:00,290 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:39:00,292 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:39:00,293 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:39:03,735 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:39:03,738 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:39:03,739 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:39:03,741 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:39:04,033 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:39:04,326 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:39:04,328 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:39:04,330 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:39:07,827 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:39:07,830 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:39:07,831 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:39:07,833 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:39:08,093 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:39:08,421 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:39:08,423 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:39:08,424 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:39:12,149 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:39:12,152 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:39:12,153 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:39:12,155 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:39:12,415 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:39:12,747 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:39:12,750 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:39:12,751 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:39:17,274 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:39:17,277 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:39:17,278 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:39:17,280 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:39:17,572 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:39:17,891 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:39:17,893 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:39:17,895 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:39:24,062 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:39:24,066 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:39:24,067 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:39:24,069 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:39:24,376 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:39:24,674 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:39:24,675 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:39:24,677 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:39:34,012 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:39:34,015 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:39:34,017 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:39:34,018 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:39:34,316 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:39:34,616 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:39:34,618 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:39:34,619 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:39:50,355 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:39:50,358 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:39:50,359 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:39:50,361 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:39:50,658 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:39:50,954 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:39:50,956 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:39:50,957 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:40:19,549 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:40:19,552 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:40:19,553 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:40:19,555 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:40:19,859 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:40:20,161 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:40:20,163 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:40:20,165 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 20:41:14,298 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 20:41:14,301 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 20:41:14,302 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 20:41:14,304 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 20:41:14,595 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 20:41:14,889 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 20:41:14,891 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 20:41:14,893 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 21:33:16,361 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 21:33:16,364 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 21:33:16,365 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 21:33:16,366 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 21:33:16,666 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 21:33:17,010 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 21:33:17,012 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 21:33:17,013 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 22:31:22,339 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 22:31:22,343 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 22:31:22,345 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 22:31:22,346 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 22:31:22,640 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 22:31:22,938 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 22:31:22,940 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 22:31:22,942 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 22:32:26,020 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 22:32:26,023 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 22:32:26,024 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 22:32:26,026 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 22:32:26,322 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 22:32:26,620 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 22:32:26,622 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 22:32:26,623 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 22:56:00,775 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 22:56:00,778 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 22:56:00,779 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 22:56:00,781 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 22:56:01,041 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 22:56:01,372 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 22:56:01,374 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 22:56:01,375 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 23:12:43,265 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 23:12:43,268 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 23:12:43,269 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 23:12:43,271 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 23:12:43,528 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 23:12:43,857 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 23:12:43,859 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 23:12:43,860 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 23:32:07,489 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 23:32:07,492 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 23:32:07,493 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 23:32:07,495 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 23:32:07,752 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 23:32:08,087 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 23:32:08,089 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 23:32:08,090 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-03 23:54:09,048 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-03 23:54:09,051 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-03 23:54:09,052 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-03 23:54:09,054 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-03 23:54:09,343 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-03 23:54:09,642 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-03 23:54:09,644 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-03 23:54:09,645 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 00:09:00,687 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 00:09:00,690 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 00:09:00,691 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 00:09:00,692 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 00:09:00,981 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 00:09:01,276 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 00:09:01,278 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 00:09:01,279 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 00:26:08,115 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 00:26:08,118 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 00:26:08,119 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 00:26:08,121 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 00:26:08,390 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 00:26:08,720 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 00:26:08,722 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 00:26:08,723 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 00:43:34,352 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 00:43:34,354 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 00:43:34,356 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 00:43:34,357 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 00:43:34,646 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 00:43:34,941 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 00:43:34,943 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 00:43:34,945 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:00:39,987 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:00:39,991 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:00:39,992 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:00:39,993 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:00:40,284 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:00:40,581 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:00:40,583 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:00:40,584 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:27:08,721 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:27:08,724 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:27:08,725 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:27:08,727 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:27:08,985 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:27:09,312 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:27:09,314 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:27:09,316 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:27:12,853 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:27:12,856 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:27:12,857 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:27:12,859 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:27:13,118 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:27:13,448 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:27:13,450 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:27:13,452 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:27:17,165 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:27:17,168 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:27:17,169 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:27:17,171 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:27:17,434 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:27:17,761 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:27:17,763 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:27:17,765 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:27:21,328 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:27:21,331 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:27:21,332 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:27:21,334 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:27:21,593 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:27:21,922 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:27:21,924 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:27:21,926 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:27:25,732 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:27:25,735 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:27:25,736 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:27:25,738 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:27:26,030 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:27:26,324 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:27:26,326 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:27:26,327 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:27:30,988 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:27:30,991 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:27:30,992 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:27:30,994 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:27:31,286 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:27:31,582 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:27:31,584 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:27:31,585 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:34:38,823 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:34:38,826 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:34:38,827 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:34:38,828 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:34:39,120 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:34:39,412 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:34:39,414 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:34:39,416 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:34:43,218 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:34:43,221 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:34:43,222 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:34:43,224 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:34:43,482 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:34:43,811 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:34:43,813 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:34:43,815 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:34:47,363 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:34:47,366 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:34:47,367 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:34:47,368 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:34:47,660 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:34:47,956 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:34:47,958 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:34:47,960 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:34:51,653 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:34:51,656 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:34:51,657 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:34:51,659 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:34:51,950 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:34:52,244 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:34:52,246 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:34:52,247 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:34:56,045 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:34:56,048 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:34:56,049 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:34:56,051 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:34:56,342 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:34:56,637 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:34:56,639 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:34:56,640 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:35:01,318 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:35:01,321 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:35:01,322 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:35:01,324 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:35:01,583 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:35:01,910 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:35:01,912 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:35:01,913 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:35:08,194 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:35:08,197 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:35:08,198 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:35:08,200 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:44:30,316 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:44:30,649 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:44:30,652 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:44:30,653 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:44:34,160 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:44:34,163 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:44:34,164 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:44:34,166 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:44:34,425 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:44:34,755 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:44:34,757 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:44:34,758 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:44:38,435 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:44:38,438 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:44:38,439 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:44:38,441 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:44:38,699 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:44:39,025 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:44:39,028 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:44:39,029 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:44:42,829 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:44:42,831 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:44:42,832 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:44:42,834 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:44:43,125 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:44:43,418 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:44:43,420 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:44:43,421 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:44:47,228 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:44:47,231 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:44:47,232 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:44:47,234 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:44:47,524 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:44:47,823 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:44:47,825 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:44:47,826 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:44:52,644 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:44:52,647 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:44:52,648 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:44:52,650 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:44:52,909 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:44:53,236 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:44:53,238 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:44:53,240 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:44:59,536 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:44:59,539 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:44:59,540 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:44:59,542 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:44:59,837 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:45:00,135 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:45:00,137 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:45:00,138 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:52:06,915 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:52:06,918 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:52:06,919 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:52:06,920 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:52:07,213 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:52:07,506 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:52:07,508 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:52:07,509 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:52:10,977 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:52:10,980 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:52:10,981 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:52:10,983 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:52:11,243 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:52:11,571 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:52:11,573 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:52:11,574 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:52:15,237 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:52:15,240 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:52:15,241 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:52:15,243 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:52:15,533 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:52:15,829 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:52:15,831 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:52:15,832 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:52:19,706 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:52:19,708 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:52:19,709 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:52:19,711 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:52:20,001 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:52:20,296 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:52:20,298 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:52:20,299 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:52:24,882 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:52:24,884 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:52:24,886 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:52:24,887 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:52:25,146 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:52:25,475 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:52:25,477 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:52:25,479 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:52:31,617 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:52:31,620 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:52:31,621 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:52:31,623 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:52:31,881 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:52:32,210 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:52:32,212 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:52:32,213 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:59:19,120 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:59:19,128 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:59:19,146 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:59:19,148 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:59:19,441 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:59:19,736 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:59:19,738 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:59:19,740 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 01:59:35,477 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 01:59:35,480 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 01:59:35,481 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 01:59:35,482 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 01:59:35,772 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 01:59:36,068 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 01:59:36,070 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 01:59:36,071 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 02:06:43,414 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 02:06:43,418 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 02:06:43,419 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 02:06:43,421 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 02:06:43,681 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 02:06:44,010 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 02:06:44,012 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 02:06:44,013 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 02:26:49,168 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 02:26:49,171 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 02:26:49,172 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 02:26:49,174 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 02:26:49,464 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 02:26:49,759 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 02:26:49,761 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 02:26:49,762 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 02:43:32,479 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 02:43:32,482 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 02:43:32,483 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 02:43:32,485 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 02:43:32,743 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 02:43:33,071 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 02:43:33,073 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 02:43:33,074 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 03:02:33,472 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 03:02:33,475 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 03:02:33,475 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 03:02:33,477 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 03:02:33,769 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 03:02:34,064 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 03:02:34,066 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 03:02:34,067 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 03:17:38,519 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 03:17:38,522 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 03:17:38,523 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 03:17:38,524 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 03:17:38,960 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 03:17:39,271 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 03:17:39,273 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 03:17:39,274 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 03:36:03,242 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 03:36:03,245 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 03:36:03,246 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 03:36:03,248 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 03:36:03,511 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 03:36:03,841 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 03:36:03,844 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 03:36:03,845 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 06:25:15,033 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 06:25:15,036 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 06:25:15,038 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 06:25:15,056 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 06:25:15,346 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 06:25:15,642 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 06:25:15,644 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 06:25:15,645 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 07:09:45,577 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 07:09:45,581 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 07:09:45,582 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 07:09:45,584 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 07:09:45,874 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 07:09:46,169 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 07:09:46,171 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 07:09:46,172 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 07:31:22,470 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 07:31:22,474 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 07:31:22,475 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 07:31:22,477 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 07:31:22,766 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 07:31:23,290 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 07:31:23,402 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 07:31:23,405 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 08:48:26,681 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 08:48:26,685 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 08:48:26,686 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 08:48:26,688 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 08:48:26,947 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 08:48:27,276 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 08:48:27,279 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 08:48:27,280 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 10:27:47,857 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 10:27:47,862 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 10:27:47,863 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 10:27:47,865 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 10:27:48,132 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 10:27:48,464 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 10:27:48,466 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 10:27:48,467 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 13:30:52,202 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 13:30:52,207 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 13:30:52,208 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 13:30:52,209 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 13:30:52,502 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 13:30:52,802 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 13:30:52,804 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 13:30:52,805 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:08:09,229 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:08:09,233 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:08:09,233 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:08:09,235 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:08:09,563 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:08:09,902 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:08:09,905 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:08:09,906 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:09:13,210 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:09:13,214 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:09:13,215 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:09:13,217 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:09:13,521 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:09:13,828 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:09:13,830 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:09:13,831 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:10:16,830 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:10:16,833 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:10:16,834 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:10:16,836 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:10:17,097 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:10:17,431 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:10:17,433 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:10:17,434 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:11:20,447 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:11:20,450 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:11:20,451 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:11:20,453 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:11:20,746 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:11:21,061 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:11:21,063 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:11:21,064 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:12:24,086 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:12:24,089 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:12:24,090 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:12:24,092 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:12:24,354 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:12:24,693 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:12:24,696 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:12:24,697 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:13:27,631 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:13:27,634 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:13:27,635 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:13:27,637 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:13:27,902 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:13:28,240 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:13:28,258 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:13:28,259 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:14:31,276 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:14:31,279 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:14:31,280 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:14:31,282 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:14:31,584 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:14:31,885 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:14:31,887 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:14:31,888 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:15:45,029 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:15:45,031 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:15:45,032 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:15:45,034 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:15:45,344 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:15:45,724 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:15:45,726 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:15:45,727 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:15:49,292 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:15:49,295 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:15:49,296 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:15:49,298 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:15:49,599 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:15:49,910 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:15:49,912 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:15:49,913 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:15:53,401 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:15:53,404 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:15:53,405 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:15:53,407 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:15:53,715 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:15:54,025 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:15:54,027 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:15:54,028 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:15:57,487 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:15:57,490 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:15:57,491 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:15:57,493 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:15:57,756 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:15:58,096 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:15:58,098 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:15:58,099 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:16:01,922 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:16:01,925 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:16:01,926 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:16:01,928 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:16:02,242 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:16:02,560 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:16:02,563 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:16:02,564 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:16:07,210 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:16:07,213 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:16:07,214 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:16:07,216 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:16:07,515 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:16:07,827 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:16:07,829 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:16:07,830 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:16:13,988 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:16:13,991 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:16:13,992 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:16:13,994 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:16:14,259 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:16:14,595 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:16:14,597 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:16:14,599 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:16:23,931 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:16:23,934 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:16:23,936 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:16:23,938 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:16:24,216 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:16:24,607 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:16:24,609 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:16:24,610 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:16:40,373 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:16:40,376 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:16:40,377 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:16:40,379 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:16:40,680 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:16:40,988 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:16:40,990 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:16:40,991 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:17:09,617 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:17:09,620 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:17:09,622 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:17:09,623 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:17:09,945 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:17:10,261 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:17:10,263 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:17:10,264 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:18:04,485 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:18:04,488 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:18:04,489 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:18:04,491 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:18:04,789 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:18:05,090 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:18:05,092 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:18:05,094 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:19:08,183 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:19:08,186 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:19:08,187 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:19:08,189 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:19:08,500 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:19:08,809 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:19:08,812 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:19:08,814 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:20:11,894 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:20:11,898 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:20:11,899 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:20:11,901 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:20:12,169 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:20:12,535 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:20:12,537 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:20:12,539 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:21:15,557 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:21:15,560 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:21:15,561 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:21:15,563 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:21:15,858 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:21:16,160 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:21:16,162 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:21:16,163 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:22:19,107 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:22:19,110 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:22:19,111 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:22:19,113 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:22:19,408 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:22:19,710 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:22:19,712 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:22:19,714 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:23:22,661 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:23:22,664 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:23:22,665 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:23:22,667 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:23:22,934 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:23:23,289 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:23:23,291 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:23:23,292 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:24:26,195 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:24:26,197 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:24:26,198 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:24:26,200 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:24:26,461 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:24:26,792 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:24:26,794 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:24:26,795 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
+2021-04-04 15:25:29,661 1 INFO ? odoo: Odoo version 12.0-20210330 
+2021-04-04 15:25:29,664 1 INFO ? odoo: Using configuration file at /etc/odoo/odoo.conf 
+2021-04-04 15:25:29,665 1 INFO ? odoo: addons paths: ['/etc/odoo/addons/12.0', '/mnt/extra-addons', '/usr/lib/python3/dist-packages/odoo/addons'] 
+2021-04-04 15:25:29,667 1 INFO ? odoo: database: odoo@db:5432 
+2021-04-04 15:25:29,964 1 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf 
+2021-04-04 15:25:30,266 1 INFO ? odoo.service.server: Watching addons folder /etc/odoo/addons/12.0 
+2021-04-04 15:25:30,268 1 INFO ? odoo.service.server: Watching addons folder /mnt/extra-addons 
+2021-04-04 15:25:30,269 1 INFO ? odoo.service.server: Watching addons folder /usr/lib/python3/dist-packages/odoo/addons 
