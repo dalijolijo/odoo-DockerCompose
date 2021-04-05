@@ -12,10 +12,12 @@
         ./init-letsencrypt.sh
 
 5. Set Folder Permissions:
+
         sudo chmod -R 777 addons
         sudo chmod -R 777 etc
         mkdir -p postgresql
         sudo chmod -R 777 postgresql
+
 
 
 6. Run the server:
