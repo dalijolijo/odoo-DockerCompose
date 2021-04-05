@@ -1,5 +1,3 @@
-
-
 ## Installation
 1. [Install docker-compose](https://docs.docker.com/compose/install/#install-compose).
 
@@ -13,6 +11,13 @@
 
         ./init-letsencrypt.sh
 
-5. Run the server:
+5. Set Folder Permissions:
+        sudo chmod -R 777 addons
+        sudo chmod -R 777 etc
+        mkdir -p postgresql
+        sudo chmod -R 777 postgresql
+
+
+6. Run the server:
 
         docker-compose up
